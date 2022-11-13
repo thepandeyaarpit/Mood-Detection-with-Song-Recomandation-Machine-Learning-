@@ -1,8 +1,9 @@
 ## Mood-Detection-with-Song-Recomandation-Machine-Learning-
+#### #python
+#### #machine-learning
 
- ### I am Not Added the HaarCascade File(Haarcascade-FrontalFace-Default) You can download, add and run the program.....
- 
- 
+ #### I am Not Added the HaarCascade File(Haarcascade-FrontalFace-Default) You can download, add and run the program.....
+
  This Project is based on the Opencv and Some basic concept of the Deep Learning
 
 Project defines the use of facial recognization in today's world as we all know technology is increasing day by day.so new technology rises every day for the better future
@@ -17,4 +18,4 @@ My gem's Manjot Singh @manjothub and Sumit Nautiyal @sumitnn go follow these Guy
 
 I know this project needs lot's of changing so we are working on it so when it is completed i will definately update!!
 
-T
+
